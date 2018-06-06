@@ -1,12 +1,12 @@
-package com.okason.simplenotepad.data;
+package com.test.notepad.data;
 
 import android.content.ContentValues;
 import android.content.Context;
 import android.database.Cursor;
 import android.net.Uri;
 
-import com.okason.simplenotepad.models.Note;
-import com.okason.simplenotepad.utilities.Constants;
+import com.test.notepad.models.Note;
+import com.test.notepad.utilities.Constants;
 
 import java.util.ArrayList;
 import java.util.List;

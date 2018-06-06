@@ -1,4 +1,4 @@
-package com.okason.simplenotepad.data;
+package com.test.notepad.data;
 
 import android.content.ContentProvider;
 import android.content.ContentValues;
@@ -9,7 +9,7 @@ import android.database.sqlite.SQLiteQueryBuilder;
 import android.net.Uri;
 import android.text.TextUtils;
 
-import com.okason.simplenotepad.utilities.Constants;
+import com.test.notepad.utilities.Constants;
 
 import java.util.Arrays;
 import java.util.HashSet;
@@ -21,7 +21,7 @@ public class NoteContentProvider extends ContentProvider {
     private DatabaseHelper dbHelper;
 
     private static final String BASE_PATH_NOTE = "notes";
-    private static final String AUTHORITY = "com.okason.simplenotesapp.data.provider";
+    private static final String AUTHORITY = "com.test.notepad.data.provider";
     public static final Uri CONTENT_URI = Uri.parse("content://" + AUTHORITY + "/" + BASE_PATH_NOTE);
     private static final int NOTE = 100;
     private static final int NOTES = 101;

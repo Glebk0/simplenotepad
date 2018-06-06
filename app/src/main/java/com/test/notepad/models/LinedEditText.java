@@ -1,4 +1,4 @@
-package com.okason.simplenotepad.models;
+package com.test.notepad.models;
 
 import android.content.Context;
 import android.graphics.Canvas;

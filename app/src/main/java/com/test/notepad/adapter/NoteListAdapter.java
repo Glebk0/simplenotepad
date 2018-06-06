@@ -1,4 +1,4 @@
-package com.okason.simplenotepad.adapter;
+package com.test.notepad.adapter;
 
 import android.content.Context;
 import android.content.DialogInterface;
@@ -9,8 +9,8 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.TextView;
 
-import com.okason.simplenotepad.R;
-import com.okason.simplenotepad.models.Note;
+import com.test.notepad.R;
+import com.test.notepad.models.Note;
 
 import java.util.List;
 

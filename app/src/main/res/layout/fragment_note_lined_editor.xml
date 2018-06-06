@@ -22,7 +22,7 @@
         android:textColor="#000000"/>
 
 
-    <com.okason.simplenoteapp.models.LinedEditText
+    <com.test.notepad.models.LinedEditText
         android:id="@+id/edit_text_note"
         android:layout_width="match_parent"
         android:layout_height="match_parent"

@@ -1,4 +1,4 @@
-package com.okason.simplenotepad.fragments;
+package com.test.notepad.fragments;
 
 
 import android.content.Intent;
@@ -13,11 +13,11 @@ import android.view.View;
 import android.view.ViewGroup;
 
 import com.melnykov.fab.FloatingActionButton;
-import com.okason.simplenotepad.R;
-import com.okason.simplenotepad.activities.NoteEditorActivity;
-import com.okason.simplenotepad.adapter.NoteListAdapter;
-import com.okason.simplenotepad.data.NoteManager;
-import com.okason.simplenotepad.models.Note;
+import com.test.notepad.R;
+import com.test.notepad.activities.NoteEditorActivity;
+import com.test.notepad.adapter.NoteListAdapter;
+import com.test.notepad.data.NoteManager;
+import com.test.notepad.models.Note;
 
 import java.util.List;
 

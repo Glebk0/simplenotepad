@@ -1,6 +1,6 @@
-package com.okason.simplenotepad.utilities;
+package com.test.notepad.utilities;
 
-import com.okason.simplenotepad.models.Note;
+import com.test.notepad.models.Note;
 
 import java.util.ArrayList;
 import java.util.Calendar;

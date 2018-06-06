@@ -1,8 +1,8 @@
-package com.okason.simplenotepad.models;
+package com.test.notepad.models;
 
 import android.database.Cursor;
 
-import com.okason.simplenotepad.utilities.Constants;
+import com.test.notepad.utilities.Constants;
 
 import java.text.SimpleDateFormat;
 import java.util.Calendar;

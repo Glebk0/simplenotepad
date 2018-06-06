@@ -1,4 +1,4 @@
-package com.okason.simplenotepad;
+package com.test.notepad;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;

@@ -1,4 +1,4 @@
-package com.okason.simplenotepad.activities;
+package com.test.notepad.activities;
 
 import android.content.Intent;
 import android.os.Bundle;
@@ -18,14 +18,14 @@ import com.mikepenz.materialdrawer.model.PrimaryDrawerItem;
 import com.mikepenz.materialdrawer.model.interfaces.IDrawerItem;
 import com.mikepenz.materialdrawer.model.interfaces.Nameable;
 import com.mikepenz.materialize.util.KeyboardUtil;
-import com.okason.simplenotepad.R;
-import com.okason.simplenotepad.data.DatabaseHelper;
-import com.okason.simplenotepad.fragments.NoteListFragment;
+import com.test.notepad.R;
+import com.test.notepad.data.DatabaseHelper;
+import com.test.notepad.fragments.NoteListFragment;
 
 public class MainActivity extends AppCompatActivity {
 
     private Toolbar mToolbar;
-    private com.mikepenz.materialdrawer.Drawer result = null;
+    private Drawer result = null;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

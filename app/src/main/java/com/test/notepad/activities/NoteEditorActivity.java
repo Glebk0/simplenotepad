@@ -1,4 +1,4 @@
-package com.okason.simplenotepad.activities;
+package com.test.notepad.activities;
 
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
@@ -8,8 +8,8 @@ import android.support.v7.widget.Toolbar;
 import android.view.Menu;
 import android.view.MenuItem;
 
-import com.okason.simplenotepad.R;
-import com.okason.simplenotepad.fragments.NotePlainEditorFragment;
+import com.test.notepad.R;
+import com.test.notepad.fragments.NotePlainEditorFragment;
 
 public class NoteEditorActivity extends AppCompatActivity {
 

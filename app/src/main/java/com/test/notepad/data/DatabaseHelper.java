@@ -1,10 +1,10 @@
-package com.okason.simplenotepad.data;
+package com.test.notepad.data;
 
 import android.content.Context;
 import android.database.sqlite.SQLiteDatabase;
 import android.database.sqlite.SQLiteOpenHelper;
 
-import com.okason.simplenotepad.utilities.Constants;
+import com.test.notepad.utilities.Constants;
 
 /**
  * Created by Valentine on 9/28/2015.

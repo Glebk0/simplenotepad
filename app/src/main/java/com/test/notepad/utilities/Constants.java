@@ -1,4 +1,4 @@
-package com.okason.simplenotepad.utilities;
+package com.test.notepad.utilities;
 
 /**
  * Created by Valentine on 9/28/2015.

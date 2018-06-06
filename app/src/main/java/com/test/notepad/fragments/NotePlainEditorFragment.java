@@ -1,4 +1,4 @@
-package com.okason.simplenotepad.fragments;
+package com.test.notepad.fragments;
 
 
 import android.app.AlertDialog;
@@ -16,10 +16,10 @@ import android.view.ViewGroup;
 import android.widget.EditText;
 import android.widget.Toast;
 
-import com.okason.simplenotepad.R;
-import com.okason.simplenotepad.activities.MainActivity;
-import com.okason.simplenotepad.data.NoteManager;
-import com.okason.simplenotepad.models.Note;
+import com.test.notepad.R;
+import com.test.notepad.activities.MainActivity;
+import com.test.notepad.data.NoteManager;
+import com.test.notepad.models.Note;
 
 /**
  * A simple {@link Fragment} subclass.
